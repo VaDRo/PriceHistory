@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PriceHistory/.vs/PriceHistory/FileContentIndex
+/PriceHistory/.vs/PriceHistory/v17/.futdcache.v2
+/PriceHistory/.vs/PriceHistory/v17
+/PriceHistory/.vs/ProjectEvaluation
+/PriceHistory/bin/Debug/net8.0
+/PriceHistory/obj
+/PriceHistory.Data/bin/Debug/net8.0
+/PriceHistory.Data/obj
+/PriceHistory.Model/bin/Debug/net8.0
+/PriceHistory.Model/obj
+/PriceHistory/.vs/PriceHistory/DesignTimeBuild
+/PriceHistory/.vs/PriceHistory/config
